@@ -48,5 +48,5 @@ bower.json
 node_modules/
 
 # Ignore database.yml
-database.yml
+# database.yml
 
